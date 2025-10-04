@@ -22,3 +22,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+venv/
+venv/*
+venv/Scripts/*
+venv/Scripts/activate
+venv/Scripts/deactivate
+venv/Scripts/Activate.ps1
+venv/Scripts/deactivate.bat
+venv/Scripts/activate.bat
+venv/Scripts/Activate.ps1
+venv/Scripts/deactivate.bat
+venv/Scripts/activate.bat
